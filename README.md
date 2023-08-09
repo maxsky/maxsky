@@ -16,7 +16,8 @@ Some badges
 
 ![Static Badge](https://img.shields.io/badge/Lumen-informational?logo=lumen&label=Framework)
 ![Static Badge](https://img.shields.io/badge/Laravel-informational?logo=laravel&label=Framework)
-
+![Static Badge](https://img.shields.io/badge/Vue.js-informational?logo=vue.js&label=Framework)
+![Static Badge](https://img.shields.io/badge/Hexo-informational?logo=hexo&label=Framework)
 
 ![Static Badge](https://img.shields.io/badge/IntelliJ_IDEA-informational?logo=intellij-idea&label=IDE)
 ![Static Badge](https://img.shields.io/badge/Sublime_Text-informational?logo=sublimetext&label=Editor)
