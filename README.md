@@ -9,7 +9,7 @@ Hi~
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxsky)](https://github.com/anuraghazra/github-readme-stats)
 
-Some badges
+I'm a Developer
 
 ![Static Badge](https://img.shields.io/badge/macOS-informational?logo=apple&label=OS)
 ![Static Badge](https://img.shields.io/badge/Windows-informational?logo=outline&label=OS)
