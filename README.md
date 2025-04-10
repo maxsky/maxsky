@@ -34,4 +34,4 @@ Entertainments
 
 ![Static Badge](https://img.shields.io/badge/Steam-informational?logo=steam&label=Game)
 ![Static Badge](https://img.shields.io/badge/Epic-informational?logo=epic-games&label=Game)
-![Static Badge](https://img.shields.io/badge/Apex-informational?logo=ea&label=Game)
+![Static Badge](https://img.shields.io/badge/Apex_Legends-informational?logo=ea&label=Game)
