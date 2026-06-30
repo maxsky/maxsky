@@ -31,7 +31,7 @@ I'm a Developer
 ![Static Badge](https://img.shields.io/badge/Sublime_Text-informational?logo=sublimetext&label=Editor)
 ![Static Badge](https://img.shields.io/badge/iTerm2-informational?logo=iterm2&label=Terminal)
 ![Static Badge](https://img.shields.io/badge/Source_Tree-informational?logo=sourcetree&label=VCS)
-![Static Badge](https://img.shields.io/badge/Apifox-informational?logo=apifox&label=API)
+![Static Badge](https://img.shields.io/badge/Postman-informational?logo=postman&label=API)
 
 Entertainments
 
