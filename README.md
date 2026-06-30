@@ -6,7 +6,7 @@ Hi~
 
 [![Snake animation](https://raw.githubusercontent.com/maxsky/maxsky/output/github-contribution-grid-snake.svg)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxsky&count_private=true&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=maxsky&count_private=true&show_icons=true&theme=ambient_gradient)](https://github.com/stats-organization/github-stats-extended)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxsky)](https://github.com/anuraghazra/github-readme-stats)
 
