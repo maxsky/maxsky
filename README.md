@@ -16,10 +16,12 @@ I'm a Developer
 ![Static Badge](https://img.shields.io/badge/Windows-informational?logo=outline&label=OS)
 ![Static Badge](https://img.shields.io/badge/Linux-informational?logo=linux&label=OS)
 
+![Static Badge](https://img.shields.io/badge/Python-informational?logo=python&label=Lang)
 ![Static Badge](https://img.shields.io/badge/PHP-informational?logo=php&label=Lang)
 ![Static Badge](https://img.shields.io/badge/MySQL-informational?logo=mysql&label=Lang)
 ![Static Badge](https://img.shields.io/badge/JavaScript-informational?logo=javascript&label=Lang)
 
+![Static Badge](https://img.shields.io/badge/FastAPI-informational?logo=fastapi&label=Framework)
 ![Static Badge](https://img.shields.io/badge/Laravel-informational?logo=laravel&label=Framework)
 ![Static Badge](https://img.shields.io/badge/Lumen-informational?logo=lumen&label=Framework)
 ![Static Badge](https://img.shields.io/badge/Vue.js-informational?logo=vue.js&label=Framework)
