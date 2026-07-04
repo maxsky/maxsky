@@ -8,7 +8,7 @@ Hi~
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=maxsky&count_private=true&show_icons=true&theme=ambient_gradient)](https://github.com/stats-organization/github-stats-extended)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxsky)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=maxsky&layout=donut&langs_count=6&theme=radical)](https://github.com/stats-organization/github-stats-extended)
 
 I'm a Developer
 
