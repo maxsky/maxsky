@@ -2,7 +2,9 @@
 
 Hi~
 
-[![wakatime](https://wakatime.com/badge/user/e8d6d136-fb7b-4352-a0bc-e866b69394e6.svg)](https://wakatime.com/@maxsky)
+[![wakatime](https://wakatime.com/badge/user/e8d6d136-fb7b-4352-a0bc-e866b69394e6.svg)](https://wakatime.com)
+
+[![waktime activities](https://wakatime.com/share/@maxsky/d0e3ea9e-1ea2-4a58-9308-cc3dbef5baef.png)](https://wakatime.com)
 
 [![Snake animation](https://raw.githubusercontent.com/maxsky/maxsky/output/github-contribution-grid-snake.svg)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 
